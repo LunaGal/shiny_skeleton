@@ -1,7 +1,7 @@
 # pooling replicates to station
 zotuBar <-read.csv("Van_QIIME/Fishes.df4.csv")
 zotuBar$Rep<-rep(1,nrow(zotuBar))
-zotuBar2<-ddply(zotuBar,.(species, Marker), summarize, Sum = sum(c(Rep)) )
+zotuBar2<-ddply(zotuBar, c("species", "Marker"), summarize, Sum = sum(c(Rep)) )
 
 zotuBarTotal<-aggregate(Sum ~ Marker, data = zotuBar2, FUN = sum)
 colnames(zotuBarTotal)[2]<-"Total"
