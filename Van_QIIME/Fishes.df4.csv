@@ -1,0 +1,178 @@
+"Marker","Type","domain","kingdom","phylum","class","order","family","genus","species","ID","Reads","LogReads"
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Perciformes","Perciformes","Pomacentridae","Abudefduf","Abudefduf sordidus","Zotu10",26,3.25809653802148
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Chaetodontiformes","Chaetodontiformes","Chaetodontidae","Heniochus","Heniochus singularius","Zotu105",2,0.693147180559945
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Cichliformes","Cichliformes","Cichlidae","Sarotherodon","Sarotherodon melanotheron","Zotu108",56,4.02535169073515
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Clupeiformes","Clupeiformes","Clupeidae","Brevoortia","Brevoortia tyrannus","Zotu111",1,0
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Clupeiformes","Clupeiformes","Clupeidae","Herklotsichthys","Herklotsichthys quadrimaculatus","Zotu114",2185,7.68937110752969
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Clupeiformes","Clupeiformes","Clupeidae","Sardinops","","Zotu117",24,3.17805383034795
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Clupeiformes","Clupeiformes","Engraulidae","","","Zotu119",26,3.25809653802148
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Clupeiformes","Clupeiformes","Engraulidae","Encrasicholina","Encrasicholina purpurea","Zotu121",35,3.55534806148941
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Cyprinodontiformes","Cyprinodontiformes","Poeciliidae","Gambusia","Gambusia affinis","Zotu124",9,2.19722457733622
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Cyprinodontiformes","Cyprinodontiformes","Poeciliidae","Poecilia","Poecilia sp. MR-2020","Zotu126",99,4.59511985013459
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Gobiiformes","Gobiiformes","Gobiidae","Asterropteryx","Asterropteryx semipunctata","Zotu139",468,6.14846829591765
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Perciformes","Perciformes","Pomacentridae","Dascyllus","","Zotu14",8,2.07944154167984
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Gobiiformes","Gobiiformes","Gobiidae","Bathygobius","Bathygobius cocosensis","Zotu140",21,3.04452243772342
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Gobiiformes","Gobiiformes","Gobiidae","Gnatholepis","Gnatholepis anjerensis","Zotu141",30,3.40119738166216
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Gobiiformes","Gobiiformes","Gobiidae","Psilogobius","Psilogobius mainlandi","Zotu145",316,5.75574221358691
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Holocentriformes","Holocentriformes","Holocentridae","Neoniphon","Neoniphon sammara","Zotu153",3,1.09861228866811
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Holocentriformes","Holocentriformes","Holocentridae","Plectrypops","Plectrypops lima","Zotu154",3,1.09861228866811
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Holocentriformes","Holocentriformes","Holocentridae","Sargocentron","","Zotu155",1,0
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Labriformes","Labriformes","Labridae","Bodianus","","Zotu161",60,4.0943445622221
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Labriformes","Labriformes","Labridae","Chlorurus","","Zotu162",1,0
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Lutjaniformes","Lutjaniformes","Lutjanidae","Lutjanus","","Zotu169",53,3.97029191355212
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Lutjaniformes","Lutjaniformes","Lutjanidae","Lutjanus","Lutjanus bohar","Zotu170",1,0
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Lutjaniformes","Lutjaniformes","Lutjanidae","Lutjanus","Lutjanus fulvus","Zotu171",488,6.19031540585315
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Mugiliformes","Mugiliformes","Mugilidae","","","Zotu174",3,1.09861228866811
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Mugiliformes","Mugiliformes","Mugilidae","Mugil","Mugil cephalus","Zotu175",36,3.58351893845611
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Perciformes","Perciformes","Serranidae","Cephalopholis","Cephalopholis argus","Zotu183",36,3.58351893845611
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Acanthuriformes","Acanthuriformes","Acanthuridae","","","Zotu20",1,0
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Scombriformes","Scombriformes","Scombridae","","","Zotu215",7959,8.98205864280585
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Scombriformes","Scombriformes","Scombridae","Acanthocybium","Acanthocybium solandri","Zotu216",13,2.56494935746154
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Syngnathiformes","Syngnathiformes","Mullidae","Mulloidichthys","Mulloidichthys flavolineatus","Zotu234",131,4.87519732320115
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Tetraodontiformes","Tetraodontiformes","Diodontidae","Chilomycterus","Chilomycterus reticulatus","Zotu246",1,0
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Tetraodontiformes","Tetraodontiformes","Monacanthidae","Cantherhines","Cantherhines dumerilii","Zotu253",2,0.693147180559945
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Tetraodontiformes","Tetraodontiformes","Tetraodontidae","Arothron","","Zotu260",9,2.19722457733622
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Tetraodontiformes","Tetraodontiformes","Tetraodontidae","Lagocephalus","Lagocephalus lagocephalus","Zotu262",2,0.693147180559945
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Acanthuriformes","Acanthuriformes","Acanthuridae","Acanthurus","Acanthurus triostegus","Zotu29",215,5.37063802812766
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Acanthuriformes","Acanthuriformes","Acanthuridae","Acanthurus","Acanthurus xanthopterus","Zotu30",268,5.59098698051086
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Acanthuriformes","Acanthuriformes","Acanthuridae","Naso","","Zotu35",1,0
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Acanthuriformes","Acanthuriformes","Acanthuridae","Naso","Naso unicornis","Zotu37",7,1.94591014905531
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Acanthuriformes","Acanthuriformes","Acanthuridae","Naso","Naso vlamingii","Zotu38",2,0.693147180559945
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Acanthuriformes","Acanthuriformes","Acanthuridae","Zebrasoma","","Zotu40",30,3.40119738166216
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Acanthuriformes","Acanthuriformes","Acanthuridae","Zebrasoma","Zebrasoma velifer","Zotu41",17,2.83321334405622
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Albuliformes","Albuliformes","Albulidae","Albula","","Zotu43",9,2.19722457733622
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Albuliformes","Albuliformes","Albulidae","Albula","Albula glossodonta","Zotu44",6,1.79175946922805
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Anguilliformes","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax flavimarginatus","Zotu47",6,1.79175946922805
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Atheriniformes","Atheriniformes","Atherinidae","Atherinomorus","Atherinomorus insularum","Zotu50",298,5.6970934865054
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Beloniformes","Beloniformes","Exocoetidae","Cheilopogon","","Zotu55",4,1.38629436111989
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Blenniiformes","Blenniiformes","Blenniidae","Omobranchus","Omobranchus obliquus","Zotu63",71,4.26267987704132
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Carangiformes","Carangiformes","Carangidae","Atule","Atule mate","Zotu66",26,3.25809653802148
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Carangiformes","Carangiformes","Carangidae","Caranx","","Zotu67",117,4.76217393479776
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Carangiformes","Carangiformes","Carangidae","Decapterus","Decapterus muroadsi","Zotu72",1,0
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Carangiformes","Carangiformes","Carangidae","Gnathanodon","Gnathanodon speciosus","Zotu73",23,3.13549421592915
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Carangiformes","Carangiformes","Carangidae","Scomberoides","Scomberoides lysan","Zotu74",34,3.52636052461616
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Carangiformes","Carangiformes","Carangidae","Seriola","Seriola rivoliana","Zotu76",1,0
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Carcharhiniformes","Carcharhiniformes","Carcharhinidae","Galeocerdo","Galeocerdo cuvier","Zotu83",18,2.89037175789616
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Carcharhiniformes","Carcharhiniformes","Pseudotriakidae","Pseudotriakis","Pseudotriakis microdon","Zotu86",1,0
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Perciformes","Perciformes","Pomacentridae","Abudefduf","Abudefduf abdominalis","Zotu9",83,4.4188406077966
+"Berry_16S","Shark_pen","Eukaryota","Metazoa","Chordata","Centrarchiformes","Centrarchiformes","Kuhliidae","Kuhlia","Kuhlia xenura","Zotu95",778,6.65672652417839
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Perciformes","Perciformes","Pomacentridae","Abudefduf","Abudefduf sordidus","Zotu10",22,3.09104245335832
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Chaetodontiformes","Chaetodontiformes","Chaetodontidae","Chaetodon","Chaetodon lineolatus","Zotu101",17,2.83321334405622
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Cichliformes","Cichliformes","Cichlidae","Sarotherodon","Sarotherodon melanotheron","Zotu108",28,3.3322045101752
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Clupeiformes","Clupeiformes","Clupeidae","Herklotsichthys","Herklotsichthys quadrimaculatus","Zotu114",1788,7.48885295573346
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Cyprinodontiformes","Cyprinodontiformes","Poeciliidae","Gambusia","Gambusia affinis","Zotu124",2,0.693147180559945
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Cyprinodontiformes","Cyprinodontiformes","Poeciliidae","Poecilia","","Zotu125",7,1.94591014905531
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Gobiiformes","Gobiiformes","Gobiidae","Asterropteryx","Asterropteryx semipunctata","Zotu139",61,4.11087386417331
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Gobiiformes","Gobiiformes","Gobiidae","Mugilogobius","Mugilogobius cavifrons","Zotu142",117,4.76217393479776
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Gobiiformes","Gobiiformes","Gobiidae","Psilogobius","Psilogobius mainlandi","Zotu145",249,5.51745289646471
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Labriformes","Labriformes","Labridae","Bodianus","","Zotu161",83,4.4188406077966
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Labriformes","Labriformes","Labridae","Thalassoma","","Zotu168",59,4.07753744390572
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Lutjaniformes","Lutjaniformes","Lutjanidae","Lutjanus","Lutjanus fulvus","Zotu171",627,6.44094654063292
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Mugiliformes","Mugiliformes","Mugilidae","Mugil","Mugil cephalus","Zotu175",586,6.37331978957701
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Perciformes","Perciformes","Scorpaenidae","Scorpaenodes","Scorpaenodes quadrispinosus","Zotu181",9,2.19722457733622
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Perciformes","Perciformes","Sphyraenidae","Sphyraena","","Zotu19",42,3.73766961828337
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Acanthuriformes","Acanthuriformes","Acanthuridae","Acanthurus","Acanthurus blochii","Zotu22",277,5.62401750618734
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Scombriformes","Scombriformes","Scombridae","Thunnus","","Zotu221",5533,8.61848544289811
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Syngnathiformes","Syngnathiformes","Mullidae","Mulloidichthys","Mulloidichthys flavolineatus","Zotu234",105,4.65396035015752
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Tetraodontiformes","Tetraodontiformes","","","","Zotu240",55,4.00733318523247
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Tetraodontiformes","Tetraodontiformes","Tetraodontidae","Arothron","Arothron hispidus","Zotu261",22,3.09104245335832
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Acanthuriformes","Acanthuriformes","Acanthuridae","Acanthurus","Acanthurus triostegus","Zotu29",76,4.33073334028633
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Acanthuriformes","Acanthuriformes","Acanthuridae","Acanthurus","Acanthurus xanthopterus","Zotu30",160,5.07517381523383
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Acanthuriformes","Acanthuriformes","Acanthuridae","Zebrasoma","","Zotu40",40,3.68887945411394
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Acanthuriformes","Acanthuriformes","Acanthuridae","Zebrasoma","Zebrasoma velifer","Zotu41",70,4.24849524204936
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Albuliformes","Albuliformes","Albulidae","Albula","Albula glossodonta","Zotu44",52,3.95124371858143
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Anguilliformes","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax flavimarginatus","Zotu47",43,3.76120011569356
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Atheriniformes","Atheriniformes","Atherinidae","Atherinomorus","Atherinomorus insularum","Zotu50",760,6.63331843328038
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Beloniformes","Beloniformes","Belonidae","Tylosurus","","Zotu53",43,3.76120011569356
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Blenniiformes","Blenniiformes","Blenniidae","Omobranchus","Omobranchus obliquus","Zotu63",68,4.21950770517611
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Blenniiformes","Blenniiformes","Blenniidae","Parablennius","Parablennius thysanius","Zotu64",14,2.63905732961526
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Carangiformes","Carangiformes","Carangidae","Atule","Atule mate","Zotu66",26,3.25809653802148
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Carangiformes","Carangiformes","Carangidae","Caranx","","Zotu67",70,4.24849524204936
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Carangiformes","Carangiformes","Carangidae","Gnathanodon","Gnathanodon speciosus","Zotu73",14,2.63905732961526
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Carangiformes","Carangiformes","Carangidae","Scomberoides","Scomberoides lysan","Zotu74",1,0
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Perciformes","Perciformes","Pomacentridae","Abudefduf","","Zotu8",194,5.26785815906333
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Carcharhiniformes","Carcharhiniformes","Carcharhinidae","Galeocerdo","Galeocerdo cuvier","Zotu83",2075,7.6377164326648
+"MiFish_E","Shark_pen","Eukaryota","Metazoa","Chordata","Centrarchiformes","Centrarchiformes","Kuhliidae","Kuhlia","Kuhlia xenura","Zotu95",722,6.58202513889283
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Perciformes","Perciformes","Pomacentridae","Abudefduf","Abudefduf sordidus","Zotu10",45,3.80666248977032
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Cichliformes","Cichliformes","Cichlidae","Sarotherodon","Sarotherodon melanotheron","Zotu108",8,2.07944154167984
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Clupeiformes","Clupeiformes","Clupeidae","Herklotsichthys","Herklotsichthys quadrimaculatus","Zotu114",2624,7.87245515006398
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Cyprinodontiformes","Cyprinodontiformes","Poeciliidae","Poecilia","","Zotu125",7,1.94591014905531
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Gobiiformes","Gobiiformes","Gobiidae","Asterropteryx","Asterropteryx semipunctata","Zotu139",133,4.89034912822175
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Gobiiformes","Gobiiformes","Gobiidae","Bathygobius","Bathygobius cocosensis","Zotu140",4,1.38629436111989
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Gobiiformes","Gobiiformes","Gobiidae","Mugilogobius","Mugilogobius cavifrons","Zotu142",45,3.80666248977032
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Gobiiformes","Gobiiformes","Gobiidae","Psilogobius","Psilogobius mainlandi","Zotu145",153,5.03043792139244
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Kurtiformes","Kurtiformes","Apogonidae","Foa","Foa brachygramma","Zotu160",2,0.693147180559945
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Labriformes","Labriformes","Labridae","Bodianus","","Zotu161",19,2.94443897916644
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Lutjaniformes","Lutjaniformes","Lutjanidae","Lutjanus","Lutjanus fulvus","Zotu171",388,5.96100533962327
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Mugiliformes","Mugiliformes","Mugilidae","Mugil","Mugil cephalus","Zotu175",73,4.29045944114839
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Perciformes","Perciformes","Sphyraenidae","Sphyraena","","Zotu19",98,4.58496747867057
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Acanthuriformes","Acanthuriformes","Acanthuridae","Acanthurus","Acanthurus blochii","Zotu22",501,6.21660610108486
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Scombriformes","Scombriformes","Scombridae","Thunnus","","Zotu221",7003,8.85409390765552
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Acanthuriformes","Acanthuriformes","Acanthuridae","Acanthurus","Acanthurus dussumieri","Zotu23",12,2.484906649788
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Syngnathiformes","Syngnathiformes","Mullidae","Mulloidichthys","Mulloidichthys flavolineatus","Zotu234",80,4.38202663467388
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Tetraodontiformes","Tetraodontiformes","Tetraodontidae","Arothron","","Zotu260",3,1.09861228866811
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Tetraodontiformes","Tetraodontiformes","Tetraodontidae","Arothron","Arothron hispidus","Zotu261",79,4.36944785246702
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Acanthuriformes","Acanthuriformes","Acanthuridae","Acanthurus","Acanthurus triostegus","Zotu29",63,4.14313472639153
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Acanthuriformes","Acanthuriformes","Acanthuridae","Acanthurus","Acanthurus xanthopterus","Zotu30",351,5.86078622346587
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Acanthuriformes","Acanthuriformes","Acanthuridae","Zebrasoma","","Zotu40",18,2.89037175789616
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Acanthuriformes","Acanthuriformes","Acanthuridae","Zebrasoma","Zebrasoma velifer","Zotu41",6,1.79175946922805
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Albuliformes","Albuliformes","Albulidae","Albula","Albula glossodonta","Zotu44",31,3.43398720448515
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Anguilliformes","Anguilliformes","Muraenidae","","","Zotu45",17,2.83321334405622
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Anguilliformes","Anguilliformes","Muraenidae","Gymnothorax","","Zotu46",29,3.36729582998647
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Atheriniformes","Atheriniformes","Atherinidae","Atherinomorus","Atherinomorus insularum","Zotu50",1016,6.92362862813843
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Beloniformes","Beloniformes","Belonidae","Tylosurus","","Zotu53",12,2.484906649788
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Blenniiformes","Blenniiformes","Blenniidae","Omobranchus","Omobranchus obliquus","Zotu63",168,5.12396397940326
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Blenniiformes","Blenniiformes","Blenniidae","Parablennius","Parablennius thysanius","Zotu64",18,2.89037175789616
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Carangiformes","Carangiformes","Carangidae","Atule","Atule mate","Zotu66",57,4.04305126783455
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Carangiformes","Carangiformes","Carangidae","Caranx","","Zotu67",57,4.04305126783455
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Carangiformes","Carangiformes","Carangidae","Gnathanodon","Gnathanodon speciosus","Zotu73",17,2.83321334405622
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Carangiformes","Carangiformes","Carangidae","Scomberoides","Scomberoides lysan","Zotu74",4,1.38629436111989
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Perciformes","Perciformes","Pomacentridae","Abudefduf","","Zotu8",151,5.01727983681492
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Carcharhiniformes","Carcharhiniformes","Carcharhinidae","Galeocerdo","Galeocerdo cuvier","Zotu83",7,1.94591014905531
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Centrarchiformes","Centrarchiformes","Kuhliidae","Kuhlia","Kuhlia xenura","Zotu95",825,6.71538338633468
+"MiFish_U","Shark_pen","Eukaryota","Metazoa","Chordata","Chaetodontiformes","Chaetodontiformes","Chaetodontidae","Chaetodon","Chaetodon auriga","Zotu99",3,1.09861228866811
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Perciformes","Perciformes","Pomacentridae","Abudefduf","Abudefduf sordidus","Zotu10",132,4.88280192258637
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Cichliformes","Cichliformes","Cichlidae","","","Zotu107",22,3.09104245335832
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Clupeiformes","Clupeiformes","Clupeidae","Herklotsichthys","Herklotsichthys quadrimaculatus","Zotu114",2918,7.97865372908273
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Clupeiformes","Clupeiformes","Engraulidae","Encrasicholina","Encrasicholina punctifer","Zotu120",48,3.87120101090789
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Cyprinodontiformes","Cyprinodontiformes","Poeciliidae","Gambusia","","Zotu123",15,2.70805020110221
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Cyprinodontiformes","Cyprinodontiformes","Poeciliidae","Poecilia","","Zotu125",159,5.06890420222023
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Gobiiformes","Gobiiformes","Gobiidae","Asterropteryx","Asterropteryx semipunctata","Zotu139",277,5.62401750618734
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Gobiiformes","Gobiiformes","Gobiidae","Bathygobius","Bathygobius cocosensis","Zotu140",12,2.484906649788
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Gobiiformes","Gobiiformes","Gobiidae","Gnatholepis","Gnatholepis anjerensis","Zotu141",15,2.70805020110221
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Gobiiformes","Gobiiformes","Gobiidae","Mugilogobius","Mugilogobius parvus","Zotu143",99,4.59511985013459
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Gobiiformes","Gobiiformes","Gobiidae","Oxyurichthys","Oxyurichthys saru","Zotu144",16,2.77258872223978
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Gobiiformes","Gobiiformes","Gobiidae","Psilogobius","Psilogobius mainlandi","Zotu145",343,5.83773044716594
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Istiophoriformes","Istiophoriformes","Xiphiidae","Xiphias","Xiphias gladius","Zotu159",15,2.70805020110221
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Kurtiformes","Kurtiformes","Apogonidae","Foa","Foa brachygramma","Zotu160",24,3.17805383034795
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Labriformes","Labriformes","Labridae","Bodianus","","Zotu161",58,4.06044301054642
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Labriformes","Labriformes","Labridae","Chlorurus","","Zotu162",13,2.56494935746154
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Labriformes","Labriformes","Labridae","Gomphosus","Gomphosus varius","Zotu165",8,2.07944154167984
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Labriformes","Labriformes","Labridae","Scarus","Scarus psittacus","Zotu167",5,1.6094379124341
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Labriformes","Labriformes","Labridae","Thalassoma","","Zotu168",12,2.484906649788
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Lutjaniformes","Lutjaniformes","Lutjanidae","Lutjanus","Lutjanus fulvus","Zotu171",339,5.82600010738045
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Mugiliformes","Mugiliformes","Mugilidae","Mugil","Mugil cephalus","Zotu175",254,5.53733426701854
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Perciformes","Perciformes","Serranidae","Cephalopholis","Cephalopholis argus","Zotu183",20,2.99573227355399
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Perciformes","Perciformes","Sphyraenidae","Sphyraena","","Zotu19",65,4.17438726989564
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Salmoniformes","Salmoniformes","Salmonidae","Salmo","Salmo salar","Zotu205",10,2.30258509299405
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Acanthuriformes","Acanthuriformes","Acanthuridae","Acanthurus","","Zotu21",325,5.78382518232974
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Scombriformes","Scombriformes","Scombridae","Thunnus","","Zotu221",6136,8.72192834304709
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Syngnathiformes","Syngnathiformes","Mullidae","Mulloidichthys","","Zotu233",43,3.76120011569356
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Tetraodontiformes","Tetraodontiformes","Tetraodontidae","Arothron","Arothron hispidus","Zotu261",38,3.63758615972639
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Acanthuriformes","Acanthuriformes","Acanthuridae","Acanthurus","Acanthurus triostegus","Zotu29",85,4.44265125649032
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Acanthuriformes","Acanthuriformes","Acanthuridae","Acanthurus","Acanthurus xanthopterus","Zotu30",321,5.77144112313002
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Acanthuriformes","Acanthuriformes","Acanthuridae","Zebrasoma","","Zotu40",41,3.71357206670431
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Albuliformes","Albuliformes","Albulidae","Albula","","Zotu43",19,2.94443897916644
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Anguilliformes","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax flavimarginatus","Zotu47",17,2.83321334405622
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Anguilliformes","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax undulatus","Zotu48",36,3.58351893845611
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Atheriniformes","Atheriniformes","Atherinidae","Atherinomorus","Atherinomorus insularum","Zotu50",942,6.84800527457636
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Beloniformes","Beloniformes","Belonidae","Tylosurus","","Zotu53",8,2.07944154167984
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Blenniiformes","Blenniiformes","Blenniidae","","","Zotu62",65,4.17438726989564
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Blenniiformes","Blenniiformes","Blenniidae","Omobranchus","Omobranchus obliquus","Zotu63",117,4.76217393479776
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Carangiformes","Carangiformes","Carangidae","Atule","Atule mate","Zotu66",8,2.07944154167984
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Carangiformes","Carangiformes","Carangidae","Caranx","","Zotu67",242,5.48893772615669
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Carangiformes","Carangiformes","Carangidae","Scomberoides","Scomberoides lysan","Zotu74",14,2.63905732961526
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Carcharhiniformes","Carcharhiniformes","Carcharhinidae","Galeocerdo","Galeocerdo cuvier","Zotu83",55,4.00733318523247
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Perciformes","Perciformes","Pomacentridae","Abudefduf","Abudefduf abdominalis","Zotu9",117,4.76217393479776
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Centrarchiformes","Centrarchiformes","Kuhliidae","Kuhlia","Kuhlia xenura","Zotu95",596,6.39024066706535
+"Riaz_12S","Shark_pen","Eukaryota","Metazoa","Chordata","Chaetodontiformes","Chaetodontiformes","Chaetodontidae","Chaetodon","","Zotu98",11,2.39789527279837
