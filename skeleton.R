@@ -64,7 +64,8 @@ make_plot <- function(in_table, taxlevel="species") {
 }
 
 full_pipeline <- function(tax_table, group="Marker", taxlevel="species") {
-
+  tab <- relabun_by_group(tax_table, group = group, taxlevel = taxlevel)
+  return(make_plot(tab, taxlevel = taxlevel))
 }
 
 # Global Variables
