@@ -33,7 +33,7 @@ relabun_by_group <- function(table_input, group="Marker", taxlevel="species") {
   zotuBar3$Quantity<-factor(zotuBar3[[group]])
 
   # Filter out rows with blank in the "species" column
-  zotuBar3_filtered <- zotuBar3[!is.na(zotuBar3$species) & zotuBar3$species != "", ]
+  zotuBar3_filtered <- zotuBar3[!is.na(zotuBar3[[taxlevel]]) & zotuBar3[[taxlevel]] != "", ]
   return(zotuBar3_filtered)
 }
 
@@ -42,7 +42,7 @@ relabun_by_group <- function(table_input, group="Marker", taxlevel="species") {
 make_plot <- function(in_table, taxlevel="species") {
   taxlevel <- sym(taxlevel)
   return({
-    ggplot(in_table, aes(x = Quantity, y = Sum, fill = species)) +
+    ggplot(in_table, aes(x = Quantity, y = Sum, fill = !!taxlevel)) +
       geom_bar(stat = 'identity', color = "black", size = 0.25) +
       scale_fill_manual(values = getPalette(colourCount)) +
       ylab("zOTU") +
@@ -64,7 +64,9 @@ make_plot <- function(in_table, taxlevel="species") {
 }
 
 full_pipeline <- function(tax_table, group="Marker", taxlevel="species") {
+  print(taxlevel)
   tab <- relabun_by_group(tax_table, group = group, taxlevel = taxlevel)
+  print(tab)
   return(make_plot(tab, taxlevel = taxlevel))
 }
 
@@ -75,7 +77,7 @@ group_options <- c("Marker", "Site")
 raw_table <- read.csv("Van_QIIME/Fishes.df4.csv")
 test_table <- relabun_by_group(raw_table)
 getPalette <- colorRampPalette(brewer.pal(12, "Paired"))
-colourCount <- length(unique(zotuBar3$species))
+colourCount <- length(unique(raw_table$species))
 
 # The app
 ui <- fluidPage(
@@ -84,6 +86,6 @@ ui <- fluidPage(
   plotOutput("chart")
 )
 server <- function(input, output, session) {
-  output$chart <- renderPlot(full_pipeline(test_table, taxlevel=input$tax_level))
+  output$chart <- renderPlot(full_pipeline(raw_table, taxlevel=input$tax_level))
 }
 shinyApp(ui, server)
